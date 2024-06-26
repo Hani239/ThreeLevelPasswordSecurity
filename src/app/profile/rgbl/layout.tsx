@@ -1,12 +1,11 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
-import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '3-Level-Password-System',
-  description: '3-Level-Password-System',
+  title: 'Login Page',
+  description: 'This is a Login Page',
 }
 
 export default function RootLayout({

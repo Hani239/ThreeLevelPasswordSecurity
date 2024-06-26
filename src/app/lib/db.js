@@ -1,0 +1,1 @@
+export const connectionStr="mongodb+srv://vibhuti:vibhuti@cluster0.umnijxq.mongodb.net/securityDB?retryWrites=true&w=majority&appName=Cluster0";
